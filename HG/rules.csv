@@ -1,0 +1,34 @@
+col2
+src_bytescp =28.5
+src_bytescp =28.5 & same_srv_ratecp =0.995
+src_bytescp =28.5 & src_bytescp =19.5
+src_bytescp =28.5 & src_bytescp =19.5 & same_srv_ratecp =0.995
+src_bytescp =28.5 & src_bytescp =19.5 & src_bytescp =18.5
+src_bytescp =28.5 & src_bytescp =19.5 & src_bytescp =18.5 & same_srv_ratecp =0.995
+src_bytescp =28.5 & src_bytescp =18.5
+src_bytescp =28.5 & src_bytescp =18.5 & same_srv_ratecp =0.995
+same_srv_ratecp =0.995
+dst_bytescp =0.5
+dst_bytescp =0.5 & src_bytescp =28.5
+dst_bytescp =0.5 & src_bytescp =28.5 & src_bytescp =19.5
+dst_bytescp =0.5 & src_bytescp =28.5 & src_bytescp =19.5 & src_bytescp =18.5
+dst_bytescp =0.5 & src_bytescp =28.5 & src_bytescp =18.5
+dst_bytescp =0.5 & same_srv_ratecp =0.995
+dst_bytescp =0.5 & src_bytescp =19.5
+dst_bytescp =0.5 & src_bytescp =19.5 & src_bytescp =18.5
+dst_bytescp =0.5 & src_bytescp =18.5
+dst_host_same_srv_ratecp =0.335
+dst_host_same_srv_ratecp =0.335 & src_bytescp =28.5
+dst_host_same_srv_ratecp =0.335 & src_bytescp =28.5 & src_bytescp =19.5
+dst_host_same_srv_ratecp =0.335 & src_bytescp =28.5 & src_bytescp =19.5 & src_bytescp =18.5
+dst_host_same_srv_ratecp =0.335 & src_bytescp =28.5 & src_bytescp =18.5
+dst_host_same_srv_ratecp =0.335 & same_srv_ratecp =0.995
+dst_host_same_srv_ratecp =0.335 & src_bytescp =19.5
+dst_host_same_srv_ratecp =0.335 & src_bytescp =19.5 & src_bytescp =18.5
+dst_host_same_srv_ratecp =0.335 & src_bytescp =18.5
+src_bytescp =19.5
+src_bytescp =19.5 & same_srv_ratecp =0.995
+src_bytescp =19.5 & src_bytescp =18.5
+src_bytescp =19.5 & src_bytescp =18.5 & same_srv_ratecp =0.995
+src_bytescp =18.5
+src_bytescp =18.5 & same_srv_ratecp =0.995
